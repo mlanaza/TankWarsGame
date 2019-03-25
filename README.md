@@ -1,7 +1,5 @@
-# csc413-TankGame
+# TankGame
 
-## Student Name : Anne Lanaza
-## Student ID : 916694290
 
 
 
